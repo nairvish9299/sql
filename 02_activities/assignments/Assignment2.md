@@ -56,7 +56,8 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
-
+Type 1 is that which will overwrite
+Type 2 is that which will retain old address and also add new address. This table will have additonal columns that will indicate which address is currently active for the customer by tracking the start date and the end date.
 ***
 
 ## Section 2:
